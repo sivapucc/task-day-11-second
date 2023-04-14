@@ -1,0 +1,38 @@
+.choice{
+    background-color:whitesmoke;
+    height: 530px;
+    overflow-y: auto;
+    overflow-x: auto;
+    font-size: 15px;
+}
+.main{
+    height: 800px;
+}
+.option{
+    margin-left:5px;
+    background-color:rgba(123, 117, 117, 0.475);
+}
+.item{
+    background-color: rgb(90, 178, 90);
+}
+.head{
+    background-color: rgba(255, 255, 255, 0.979);
+    border: 1px solid rgba(0, 0, 0, 0.064);
+}
+.text{
+    background-color: whitesmoke;
+    height: 220px;
+    margin: 20px 10px;
+}
+.point{
+    margin:10px;
+    color:rgba(234, 8, 8, 0.774);
+}
+.example{
+    background-color: whitesmoke;
+    height:180px
+}
+.model{
+    background-color:white;
+    margin:20px;
+}
